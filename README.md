@@ -1,1 +1,2 @@
 # python-api-challenge
+This is my submission for the python api challenge. The goal of this assignment was to traverse JSON outputs from APIs to collect data. From that data it is possible to create dataframes and graph specific data points of interest. Furthermore, there were many statstic measures that were used in order to find patterns in the data. 
